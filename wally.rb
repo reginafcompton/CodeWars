@@ -8,6 +8,5 @@ def wheres_wally(string)
    end
 end
 
-
 p wheres_wally("I am ffWally,")
 

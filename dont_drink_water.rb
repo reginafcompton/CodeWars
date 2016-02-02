@@ -20,7 +20,6 @@ def make_hash(glass)
   liquid_amounts
 end
 
-
 p separate_liquids([['H', 'H', 'W', 'O'], ['H', 'H', 'W', 'O']])
 p separate_liquids([])
 
