@@ -6,3 +6,4 @@ def narcissistic?(value)
 end
 
 p narcissistic?(153)
+
