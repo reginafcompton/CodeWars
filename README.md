@@ -1,2 +1,2 @@
 # CodeWars
-Practice exercises for the un-, under-, and unhappily employed.
+Be better at code.
